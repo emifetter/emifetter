@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emifetter
+- 👋 Hi, I’m @emifetter QA Automation
 - 👀 I’m interested in ... fullstack developer and application development
 - 🌱 I’m currently learning ... react and js
 - 💞️ I’m looking to collaborate on ... 
